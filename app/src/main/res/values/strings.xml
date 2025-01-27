@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+        <string name="prompt"><![CDATA[Given the OCR-extracted text from a machine reading, analyze the text to identify parameter names, values, and units(if available). Structure the output as a JSON object with the following format:   { \'parameter_name\': { \'value\': <numeric_value>, \'unit\': \'<unit_if_available>\' } } \n Raw ocr: Pouer             SPed                  TOraue   23 kW   58.6 RPM  389 kNe  \n ]]></string>
+</resources>
